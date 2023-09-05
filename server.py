@@ -12,9 +12,9 @@ def greeting():
 def add():
     data = request.get_json()
     sum = data['first'] + data['second']
-    dic = {}
-    dic['result'] = sum
-    return dic
+    di = {}
+    di['result'] = sum
+    return di
 
 @app.route("/calculator/subtract", methods=['POST'])
 def subtract():
