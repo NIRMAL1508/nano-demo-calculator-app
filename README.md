@@ -9,7 +9,6 @@ At Sahaj, tech consultants operate at the intersection between engineering and a
 Through NaN(O), a coding event driven by Sahaj across multiple colleges in India, they want to instil a culture of applying first principles thinking to a problem statement.  
   
 ------  
-  
 
   
 ## Problem statement  
@@ -82,7 +81,6 @@ In order to submit a solution, follow these steps.
   - If it's a cross mark, the logs will tell you what you did wrong.
   - Fix the issue, and repeat steps 4+ to resubmit
 - Congratulations, you have successfully solved the dummy problem and are ready for the actual event.
-
 
 ###### Hint
 An actual solution is present in one of the commits. If you revert the commit with the message "Remove actual answers", you should be able to get to a working solution
